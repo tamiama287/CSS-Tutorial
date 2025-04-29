@@ -1,3 +1,41 @@
 /* 6つのp要素に適用するスタイルを宣言 */
+p {
+  background-color: blue; /* 背景色を青色にする */
+}
+.white {
+  color: white; /* 文字色を白色にする */
+}
+.yellow {
+  color: yellow; /* 文字色を黄色にする */
+}
+#red {
+  color: red; /* 文字色を赤色にする */
+}
 
+/* 6つのh3要素に適用するスタイルを宣言 */ 
+	"
 /* 6つのli要素に適用するスタイルを宣言 */
+li {
+  font-size: 16px;
+}
+.yellow {
+  color: yellow; /* 文字色を黄色にする */
+}
+.blue {
+  color: blue; /* 文字色を青色にする */
+}
+.red {
+  color: red; /* 文字色を赤色にする */
+}
+.back-gray {
+  background-color: gray; /* 背景色を灰色にする */
+}
+.back-green {
+  background-color: green; /* 背景色を緑色にする */
+}
+.back-brawn {
+  background-color: brown; /* 背景色を茶色にする */
+}
+#small {
+  font-size: 12px; /* フォントサイズを12pxにする */
+}
